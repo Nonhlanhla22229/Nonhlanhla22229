@@ -8,5 +8,5 @@ My name is Nonhlanhla Hazel, an IT enthusiast passionate about network managemen
 - 💬 Ask me about: IT Project planning, feasibility analyst, system architecture an choosing the right technology static for mobile 
                     application
 - 📫 How to reach me: Email: hazelnonhlanhla22@gmail.com
-                      GitHub: nonhlanhla22229
+                      GitHub: nonhlanhlahazel@22
   
